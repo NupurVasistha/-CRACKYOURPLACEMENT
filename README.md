@@ -40,7 +40,7 @@ For any questions, suggestions, or feedback, feel free to reach out:
 
 **_Nupur Vasistha_**
 - **GitHub**: [_Nupur Vasistha_](https://github.com/NupurVasistha)
-- **LinkedIn**: [_Nupur Vasistha_](https://www.linkedin.com/in/nupur-vasistha)
+- **LinkedIn**: [_Nupur Vasistha_](https://www.linkedin.com/in/nupur-vasistha-aa26a5239/)
 
 **Thank you for visiting my repository. Happy coding and best of luck with your DSA practice and interviews!**
 
