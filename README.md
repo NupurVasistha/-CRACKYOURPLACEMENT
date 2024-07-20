@@ -34,23 +34,6 @@ Welcome to my journey through the Arsh Goyal DSA Sheet! This sheet is a structur
 - **Objective**: To solve all the questions in the given duration and improve DSA skills.
 
 
-## Usage
-
-You can find my solutions to the DSA questions in this repository. Each solution is placed in a directory corresponding to its topic. Follow the structure to navigate and review the solutions:
-
-```markdown
--CRACKYOURPLACEMENT/
-├── Arrays/
-├── Strings/
-├── Linked_Lists/
-├── Stacks_Queues/
-├── Trees_Graphs/
-├── Dynamic_Programming/
-├── Searching_Sorting/
-├── Greedy_Algorithms/
-├── Backtracking/
-├── Hashing/
-```
 ## Contact
 
 For any questions, suggestions, or feedback, feel free to reach out:
