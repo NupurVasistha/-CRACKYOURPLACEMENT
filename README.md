@@ -6,6 +6,7 @@ This repository contains my solutions to the Arsh Goyal DSA Sheet, designed to c
 
 - [Introduction](#introduction)
 - [Challenge Details](#challenge-details)
+- [Contact](#contact)
 
 ## Introduction
 
@@ -49,3 +50,16 @@ You can find my solutions to the DSA questions in this repository. Each solution
 ├── Greedy_Algorithms/
 ├── Backtracking/
 ├── Hashing/
+```
+## Contact
+
+For any questions, suggestions, or feedback, feel free to reach out:
+
+**_Nupur Vasistha_**
+- **GitHub**: [_Nupur Vasistha_](https://github.com/NupurVasistha)
+- **LinkedIn**: [_Nupur Vasistha_](https://www.linkedin.com/in/nupur-vasistha)
+
+**Thank you for visiting my repository. Happy coding and best of luck with your DSA practice and interviews!**
+
+**Project Link**: [_https://github.com/NupurVasistha/-CRACKYOURPLACEMENT_](https://github.com/NupurVasistha/-CRACKYOURPLACEMENT)
+
